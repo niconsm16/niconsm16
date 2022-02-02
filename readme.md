@@ -8,7 +8,7 @@
 
 ---
 
-#####😊 I'm currently learning some programming languages and other stuff (Product Manager)
+😊 I'm currently learning some programming languages and other stuff (Product Manager)
 
 🎵 I love the music, I'm a musician (composer); a lot of genres and styles, if you have a plan with music contact me!
 

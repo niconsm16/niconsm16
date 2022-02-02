@@ -31,5 +31,5 @@
 
 <!-- Links -->
 
-[web]: https://niconsm16.github.io/Myfit-Machicado/index.html/
+[web]: https://niconsm16.github.io/Myfit-Machicado/
 [web2]: https://niconsm16.github.io/MyFitShop-Machicado/

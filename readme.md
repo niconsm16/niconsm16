@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niconsm) [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niconsm/) [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasmachicado/) [![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niconsm16)
 
 [![Discord User](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/niconsm#1951)
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="niconsm#1951" style="border-radius: 5px; -webkit-border-radius: 4px;-moz-border-radius: 4px;-ms-border-radius: 4px; -o-border-radius: 4px;"  />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="niconsm#1951" style="border-radius: 15px; -webkit-border-radius: 15px;-moz-border-radius: 15px;-ms-border-radius: 15px; -o-border-radius: 15px;"  />
 
 ---
 

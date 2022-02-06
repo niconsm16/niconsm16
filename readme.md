@@ -31,7 +31,7 @@
 
 ----
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niconsm16&" alt="niconsm16" />  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niconsm16&" alt="niconsm16" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niconsm16&" alt="niconsm16" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact" alt="niconsm16" />
 
 <!-- Links -->
 

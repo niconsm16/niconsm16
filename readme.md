@@ -1,6 +1,7 @@
-## Visita mi Proyecto final de Desarrollo Web [MyFit][web]
+## Visita los avances de mi proyecto final de [Javascript][web2]
 
-#### Visita los avances de mi proyecto final de [Javascript][web2]
+
+## Visita mi Proyecto final de Desarrollo Web [MyFit][web]
 
 ---
 

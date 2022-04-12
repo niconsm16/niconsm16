@@ -18,8 +18,6 @@
 
 📽 I'm a Audiovisual Producer
 
-💹 I love trading too!
-
 🧸 And I'm a freeky collector
 
 ---

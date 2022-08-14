@@ -1,10 +1,10 @@
-## Visita mi proyecto final de [React Js][web3]
+## Visita mi proyecto en [React Js][web3]
 
 
-## Visita mi proyecto final de [Javascript][web2]
+## Visita mi proyecto en [Javascript][web2]
 
 
-## Visita mi proyecto final de Desarrollo Web [MyFit][web]
+## Visita mi proyecto en HTML/CSS [MyFit][web]
 
 ---
 

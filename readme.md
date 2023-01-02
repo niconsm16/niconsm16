@@ -38,6 +38,8 @@
 
 ----
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <!-- Links -->
 
 [web]: https://niconsm16.github.io/Myfit-Machicado/

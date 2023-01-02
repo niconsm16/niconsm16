@@ -39,6 +39,7 @@
 ----
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niconsm16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nico" />
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?niconsm16" frameborder="0"></iframe>
 
 <!-- Links -->
 
